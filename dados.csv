@@ -1,0 +1,5 @@
+User_ID,User,Saldo,Cartao_ID,Numero,Limite,Oferta
+1,Fernando,"R$123.500,30",1,1234 5678 9123 4567,"R$10.500,00","Olá, Fernando! Ganhe recompensas incríveis no nosso programa de fidelidade exclusivo. Não perca essa oportunidade!"
+2,Glória,"R$44.523,78",2,4532 1234 5678 9876,"R$4.500,00","Glória, transforme seus sonhos em realidade com nossos microempréstimos! #CresçaComSabedoria"
+3,José,"R$254.566,55",3,6011 1234 5678 4321,"R$16.500,00","José, convite especial: Conta Premium! Desfrute de eventos exclusivos e serviços personalizados. Aproveite!"
+4,Carlos,"R$2.432,90",4,3710 1234 5678 9015,"R$900,00","Carlos, invista em seu futuro financeiro! Participe do programa de economia automática hoje mesmo. #EducaçãoFinanceira"
